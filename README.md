@@ -6,5 +6,5 @@ This GitHub repo was created to submit assignments completed by Suzanne Chalamba
 This folder includes a PDF of Assignment 1: Coding Problems.
 
 **Assignment_2**:
-This folder is currently empty but will be populated with Assignment 2 once completed.
+This folder includes a PDF of Assignment 2: Practice Interview
 
